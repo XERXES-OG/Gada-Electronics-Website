@@ -1,6 +1,6 @@
 # Gada-Electronics-Website
 This is a frontend project of ReactJS where I have made an e-commerce website called gada electronics ! <hr><br>
-For Live Demo : https://gada-electronics-ash.netlify.app/  <br>
+For Live Demo : https://gadaec.netlify.app/  <br>
 Some ScreenShots from the Websites are: <br>
 ![Screenshot 2023-12-20 001211](https://github.com/XERXES-OG/Gada-Electronics-Website/assets/95545385/682ab9c5-434a-4b9e-9698-e787621d725f)
 ![Screenshot 2023-12-20 001233](https://github.com/XERXES-OG/Gada-Electronics-Website/assets/95545385/afa10e40-0fac-4c1d-bb29-7b3639226974)
